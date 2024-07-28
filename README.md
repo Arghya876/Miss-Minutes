@@ -16,9 +16,9 @@ Welcome to **Miss-Minutes**, a simple analog clock web application built using H
 - **CSS**: Styling and positioning of clock elements.
 - **JavaScript**: Logic for updating the clock hands based on the current time.
 
-## How to Use
+## View The Page
 
-Simply open the `index.html` file in a web browser to view the analog clock. The clock hands will move dynamically to show the current time.
+**Link**:- https://arghya876.github.io/Miss-Minutes/
 
 ## Project Structure
 
